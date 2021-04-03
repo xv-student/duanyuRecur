@@ -1,0 +1,5 @@
+#ingore all file in the .idea/ directory
+.idea/
+cmake-build-debug/
+.CMakeLists.txt.swp
+name.txt
